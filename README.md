@@ -1,2 +1,3 @@
-# computation
-Code for "On Computational Power of Looped Transformers: Rethinking Tradeoff Between Recursion and Parallelism"
+# On Computational Power of Looped Transformers: Rethinking Parallelism Tradeoff
+
+This repository is the official implementation of "On Computational Power of Looped Transformers: Rethinking Parallelism Tradeoff"
